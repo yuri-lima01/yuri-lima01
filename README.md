@@ -29,14 +29,15 @@ Profissional de dados em desenvolvimento com projetos práticos em andamento, mo
 ### 🌐 Conecte-se comigo
 
 <p align="center">
-  <a href="(https://www.linkedin.com/in/yuri-lima01/)" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/yuri-lima01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
-  <a href="(https://yuri-lima01.carrd.co/)" target="_blank">
-    <img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio">
+  <a href="https://yuri-lima01.carrd.co">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio Badge">
   </a>
   <a href="mailto:yurimrt0@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail">
+    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail Badge">
   </a>
 </p>
+
 
