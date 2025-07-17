@@ -1,7 +1,8 @@
 <h1 align="center">Olá, eu sou um Analista de Dados! 👋📊</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=An%C3%A1lise+de+Dados+%7C+Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
+
 </p>
 
 ---
