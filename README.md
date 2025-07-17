@@ -1,9 +1,5 @@
 <h1 align="center">Olá, eu sou um Analista de Dados! 👋📊</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
-
-</p>
 
 ---
 
@@ -16,16 +12,9 @@ Profissional de dados em desenvolvimento com projetos práticos em andamento, mo
 ### 🛠️ Habilidades e Ferramentas
 
 <p align="center">
-  <!-- Excel -->
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/>
-  <!-- Python -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
 
+</p>
 ---
 
 ### 📈 GitHub Stats
