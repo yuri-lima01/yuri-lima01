@@ -35,12 +35,6 @@ Profissional de dados em desenvolvimento com projetos práticos em andamento, mo
   <a href="https://yuri-lima01.carrd.co">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio Badge">
   </a>
-  <a href="mailto:yurimrt0@hotmail.com">
-    <img src="https://img.shields.io/badge/Hotmail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Hotmail Badge">
-  </a>
- <a href="https://wa.me/5521970017708" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge">
-  </a>
 </p>
 
 
