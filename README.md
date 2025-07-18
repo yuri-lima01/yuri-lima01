@@ -2,7 +2,7 @@
 
 
 ---
-### 🌐 Conecte-se comigo
+### 🌐 Conecte-se comigo aqui no LinkedIn ou conheça meu portfólio
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yuri-lima01">
