@@ -18,13 +18,6 @@ Profissional de dados em desenvolvimento com projetos práticos em andamento, mo
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuri-lima01&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
----
 
 ### 🌐 Conecte-se comigo
 
