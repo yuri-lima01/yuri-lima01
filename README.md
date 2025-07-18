@@ -29,5 +29,18 @@ Profissional de dados em desenvolvimento com projetos práticos em andamento, mo
 
 </p>
 
+---
+### 🌐 Conecte-se comigo aqui no LinkedIn ou conheça meu portfólio
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/yuri-lima01">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://yuri-lima01.carrd.co">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfólio Badge">
+  </a>
+</p>
+
+
 
 
