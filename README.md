@@ -6,7 +6,7 @@
 
 ### 👨‍💼 Sobre mim
 
-Profissional de dados em desenvolvimento com projetos práticos em andamento, motivado por transformar dados em insights estratégicos. Tenho conhecimentos em Python, SQL, Power BI e Excel, busco aplicar essas habilidades em projetos reais que impactem positivamente o negócio.
+Profissional de dados com experiência prática no desenvolvimento de projetos de análise e visualização de dados. Tenho aplicado ferramentas como Python, SQL, Power BI e Excel para transformar dados em insights estratégicos que apoiam a tomada de decisão. Já desenvolvi dashboards interativos, análises exploratórias e automações de relatórios em projetos próprios.
 
 ---
 
