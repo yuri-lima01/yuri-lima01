@@ -9,7 +9,7 @@ Analista de Dados com experiência em Python, SQL, Power BI e Excel. Atuação p
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### 🛠️ Ferramentas
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Python+%7C+SQL+%7C+Excel+%7C+Power+BI" alt="Typing SVG" />
