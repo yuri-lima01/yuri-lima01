@@ -5,7 +5,7 @@
 
 
 ### 👨‍💼 Sobre mim
-Analista de Dados com experiência em Python, SQL, Power BI e Excel. Atuação prática em ETL e modelagem de dados de múltiplas fontes para criação de dashboards interativos, relatórios automatizados e análises exploratórias e preditivas. Conhecimento sólido em KPIs, métricas de desempenho, análise estatística e storytelling com dados para comunicação de insights. Perfil proativo, analítico e colaborativo, comprometido com a melhoria contínua.
+Analista de Dados com experiência em Python, SQL, Power BI e Excel, atuando em ETL, modelagem de dados e integração de múltiplas fontes para criação de dashboards interativos, relatórios automatizados e análises exploratórias/preditivas. Conhecimento em KPIs, estatística aplicada e storytelling de dados para comunicação de insights estratégicos. Projetos entregues com redução de 40% no tempo de análise manual. Perfil proativo, orientado a resultados e comprometido com melhoria contínua.
 
 ---
 
